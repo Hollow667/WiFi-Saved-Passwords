@@ -2,7 +2,7 @@
 Displays saved WiFi passwords on your Windows machine.
 
 ## Information
-This tool displays previously used WiFi passwords. Coming across a couple CMD commands, I concluded that this process should be automated; doing it manually is impractical.
+This tool displays previously used WiFi passwords. Coming across a couple CMD commands and additional steps required, I concluded that this process should be automated; doing it manually is impractical.
 
 ## Preview
 ![](https://i.imgur.com/BmWU5x3.png)
